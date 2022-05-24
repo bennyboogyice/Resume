@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/c1108335-5833-4789-a05a-9d538ebd3618/resourceGroups/BenTech-Rg1/providers/Microsoft.Web/sites/BennyM",
+    "appService.deploySubpath": "."
+}
